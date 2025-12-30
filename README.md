@@ -66,7 +66,8 @@ A comprehensive modern architecture model is proposed to integrate platform solu
 
 |Data Leak|Description|
 |---|---|
-|[Data Leak](https://dataleak.com/)|Search engine for identifying exposed databases, credentials, and sensitive information from historical breaches for threat intelligence and exposure assessment.|
+|[Group-IB](https://www.group-ib.com/)|Search engine for identifying exposed databases, credentials, and sensitive information from historical breaches for threat intelligence and exposure assessment.|
+|[IntelX](https://intelx.io/)|Search engine for identifying exposed databases, credentials, and sensitive information from historical breaches for threat intelligence and exposure assessment.|
 
 
 ## Search Engine
