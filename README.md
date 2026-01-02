@@ -56,6 +56,7 @@ A comprehensive modern architecture model is proposed to integrate platform solu
 |[OpenAI](https://openai.com/)|Leading AI research organization providing GPT models through API for natural language processing, code generation, and complex reasoning tasks.|
 |[huggingface](https://huggingface.co/)|Open platform hosting thousands of pre-trained models, datasets, and tools for NLP, computer vision, and machine learning experimentation.|
 |[DeepTeam](https://www.trydeepteam.com/)|AI-powered platform specialized for security teams, offering threat intelligence analysis, report generation, and collaborative security research capabilities.|
+|[PentestAgent](https://github.com/0xSojalSec/PentestAgent)|AI-powered platform specialized for security teams, offering threat intelligence analysis, report generation, and collaborative security research capabilities.|
 
 
 ## OSINT Platform
@@ -99,7 +100,10 @@ A comprehensive modern architecture model is proposed to integrate platform solu
 |[Havoc](https://github.com/HavocFramework/Havoc)|Modern open-source C2 alternative to Cobalt Strike featuring Demon agents, indirect syscalls, sleep obfuscation, and modular payload design for evasion.|
 |[Nimhawk](https://github.com/hdbreaker/Nimhawk)|Stealthy C2 framework written in Nim language offering native speed, small payload sizes, and cross-platform capabilities for red team engagements.|
 |[Specter Insight](https://practicalsecurityanalytics.com/specterinsight/)|C2 platform combining offensive operations with analytics-driven approach to adversary emulation and security validation.|
+|[Adaptix C2](https://github.com/Adaptix-Framework/AdaptixC2)|C2 platform combining offensive operations with analytics-driven approach to adversary emulation and security validation.|
 |Sryxen|“A platform developed by EvilByte focuses on exfiltrating data from victim endpoints and evading security controls.”|
+|Rust Pulse C2|||
+
 
 
 ## Facing-the-world
